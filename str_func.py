@@ -1,3 +1,6 @@
 def letters_up(words):
     return words.upper()
-    """Ну ниче так вроде норм"""
+
+def letters_title(words):
+    return words.title()
+"""Функция делает заглавные буквы в словах"""
